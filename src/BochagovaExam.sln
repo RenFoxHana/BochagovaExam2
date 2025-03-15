@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BochagovaExam", "BochagovaExam.csproj", "{0979F5CD-A67A-4B8F-95A9-1995017315A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "..\TestProject1\TestProject1.csproj", "{A98DACD2-052F-46F8-809E-48C70C6C3012}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0979F5CD-A67A-4B8F-95A9-1995017315A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0979F5CD-A67A-4B8F-95A9-1995017315A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0979F5CD-A67A-4B8F-95A9-1995017315A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0979F5CD-A67A-4B8F-95A9-1995017315A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A98DACD2-052F-46F8-809E-48C70C6C3012}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A98DACD2-052F-46F8-809E-48C70C6C3012}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A98DACD2-052F-46F8-809E-48C70C6C3012}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A98DACD2-052F-46F8-809E-48C70C6C3012}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6817D10-2EE9-4555-A94A-24C44F3B6A60}
+	EndGlobalSection
+EndGlobal
