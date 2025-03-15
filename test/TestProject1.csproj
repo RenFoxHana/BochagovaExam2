@@ -17,7 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\BochagovaExam\BochagovaExam.csproj" />
+    <ProjectReference Include="..\src\BochagovaExam.csproj" />
   </ItemGroup>
 
   <ItemGroup>
